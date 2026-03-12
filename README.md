@@ -20,7 +20,7 @@ Este projeto foi criado como prática de desenvolvimento web, focando em:
 ## 🌐 Acesse o site
 
 Você pode visualizar o site aqui:
-🔗 (coloque aqui o link do GitHub Pages depois)
+🔗 https://lucasmms-dev.github.io/site-android/
 
 ## 👨‍💻 Autor
 
