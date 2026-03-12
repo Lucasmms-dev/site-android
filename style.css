@@ -1,0 +1,128 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'idroid';
+    src: local('fontes/idroid.otf');
+}
+
+body{
+    background-color: rgb(145, 190, 133);
+    margin: 0;
+}
+
+h1{
+    font-size: 25px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    color: rgb(72, 106, 39);
+    font-family: idroid;
+    background-image: linear-gradient(to right, rgba(12, 157, 12, 0.444), rgba(0, 128, 0, 0));
+   }
+
+   h3{
+    padding: 10px;
+    margin: 0;
+    margin-top: 10px;
+   }
+
+
+.text{
+    text-indent: 30px;
+}
+
+header{
+      background-image: linear-gradient( to top, rgb(23, 39, 23), rgb(82, 139, 96));
+      color: rgb(224, 230, 236);
+      width: 100%;
+      text-align: center;
+      width: 100%;
+      padding: 5px 0px;
+}
+nav{
+    text-align: left;
+    
+}
+nav > a {
+    text-decoration: none;
+    margin-right: 25px;
+    color: rgb(180, 225, 180);
+    padding-left: 10px;
+}
+nav > a:hover{
+     color: rgb(13, 86, 37);
+     background-color: rgb(95, 160, 103);
+     padding: 5px;
+     border-radius: 5px;
+}
+
+main{
+    background-color: white;
+    width: 1300px;
+    max-width:95% ;
+    margin: auto;
+    padding: 10px 10px 10px 10px; 
+    border-radius: 0px 0px 5px 5px;
+}
+
+main > h1 {
+    color: rgb(72, 106, 39);
+    font-family: idroid;
+}
+
+.imagem{
+    max-width: 100%;
+}
+
+#mascote{
+    text-align: center;
+}
+
+#mulher{
+    text-align: center;
+}
+div{
+    text-align: center;
+}
+
+#video{
+    text-align: center;
+    background-color: rgb(39, 63, 14);
+    padding: 10px;
+    
+}
+
+iframe{
+    width: 800px;
+     max-width: 95%;
+}
+#titlista{
+    background-color:rgb(97, 189, 148) ;
+    color: rgba(255, 255, 255, 0.811);
+    border-radius: 5px 5px 0px 0px;
+    
+    
+}
+#lista{
+    background-color: rgb(193, 225, 214);
+    border-radius: 0px 0px 5px 5px;
+    padding: 10px 10px 10px 10px;
+}
+
+ul{
+    columns: 2;
+    list-style-type: '✔️';
+}
+
+footer{
+    text-align: center;
+    background-color: rgb(45, 60, 19);
+    color: white;
+}
+.link{
+    text-decoration: none;
+    background-color: rgba(74, 183, 147, 0.373);
+    color: black;
+    padding: 1.5px;
+}
