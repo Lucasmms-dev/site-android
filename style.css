@@ -46,9 +46,9 @@ nav{
 }
 nav > a {
     text-decoration: none;
-    margin-right: 25px;
+    margin-right: 20px;
     color: rgb(180, 225, 180);
-    padding-left: 10px;
+    padding-left: 8px;
 }
 nav > a:hover{
      color: rgb(13, 86, 37);
@@ -74,16 +74,28 @@ main > h1 {
 .imagem{
     max-width: 100%;
 }
+    main img{
+        width: 85%;
+    }
 
 #mascote{
+    max-width: 70%;
+    margin: auto;
     text-align: center;
+    
+    
 }
 
 #mulher{
+    margin: auto;
+    max-width: 70%;
     text-align: center;
+    
 }
 div{
     text-align: center;
+    max-width: 60%;
+    margin: auto;
 }
 
 #video{
