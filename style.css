@@ -42,6 +42,7 @@ header{
 }
 header p{
     max-width: 500px;
+    margin: auto;
 nav{
     display: flex; 
     flex-wrap: wrap;
