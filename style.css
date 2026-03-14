@@ -40,6 +40,8 @@ header{
       width: 100%;
       padding: 5px 0px;
 }
+header p{
+    max-width: 500px;
 nav{
     display: flex; 
     flex-wrap: wrap;
