@@ -41,6 +41,9 @@ header{
       padding: 5px 0px;
 }
 nav{
+    display: flex; 
+    flex-wrap: wrap;
+    gap: 10px;
     text-align: left;
     
 }
