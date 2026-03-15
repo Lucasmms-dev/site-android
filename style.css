@@ -47,8 +47,6 @@ header p{
 
 }
 nav{
-    display: flex;
-    flex-wrap: wrap;
     text-align: left;
     
 }
