@@ -55,6 +55,7 @@ nav > a {
     margin-right: 12px;
     color: rgb(180, 225, 180);
     padding-left: 5px;
+    font-size: 15px;
 }
 nav > a:hover{
      color: rgb(13, 86, 37);
