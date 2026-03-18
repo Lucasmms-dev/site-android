@@ -43,6 +43,7 @@ header{
 header p{
     max-width: 500px;
     margin: auto;
+    padding-bottom: 10px;
 
 
 }
